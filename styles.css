@@ -58,3 +58,8 @@
     box-align: margin-right;
     size: 100px;
 }
+
+body
+{
+    background-color: aquamarine;
+}
